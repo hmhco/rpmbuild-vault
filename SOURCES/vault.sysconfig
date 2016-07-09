@@ -1,0 +1,14 @@
+# Path to vault binary
+#VAULT_BIN=/usr/sbin/vault
+
+# Config path for vault server
+#VAULT_CONFIG_PATH=/etc/vault/vault.hcl
+
+# Log file for vault server
+#VAULT_LOG_FILE=/var/log/vault.log
+
+# Log level for vault server
+#VAULT_LOG_LEVEL=info
+
+# Pid file for vault server
+#VAULT_PID_FILE=/var/run/vault.pid
